@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _p81_PrimerExamenParcial {
+public class _p80_PrimerExamenParcial {
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
         int cantidadParticipantes;

@@ -114,4 +114,61 @@ _p78_SumaMultiplos
 _p79_Angulo
 
 ## ExamenParcial 1
-_p81_PrimerExamenParcial
+_p80_PrimerExamenParcial
+
+## Actividad 13
+_p81_InicializaArregloNumeros
+_p82_InicializaArregloCadenas
+_p83_InicializaNombreEdades
+_p84_PromedioArreglo
+_p85_NombresEdades
+
+## Actividad 14
+_p86_ArregloMostrar
+_p87_ArregloTemperaturas
+_p88_Aleatorios
+_p89_ArregloAleatorios
+
+## Practica 6
+_p90_Temperaturas
+_p91_MayoresPromedio
+_p92_MayorMenor
+_p93_ParesImpares
+
+## Actividad 15
+_p94_Empleado01
+_p95_Empleado02
+_p96_Empleado03
+_p97_Empleado04
+
+## Practica 7
+_p98_Circulo
+_p99_Rectangulo
+_p100_Articulo 
+
+## Practica 8 
+_p104_PuntoCirculo
+
+## Actividad 9
+_p106_Persona
+_p107_Forma
+
+## Practica 9
+_p108_Vehiculo
+_p109_FormaV2
+
+## Actividad 18
+_p110_CuentaBancaria
+
+## Actividad 19
+_p111_CuentaBancariaV2
+
+
+## ExamenParcial 2
+_p113_SegundoExamenParcial
+
+## Actividad 20
+_p114_Animal
+_p115_Telefono
+_p116_Juego
+
