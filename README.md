@@ -186,5 +186,12 @@ _p122_Exepcion2
 _p123_Excepcion3
 _p124_Excepcion4
 _p125_Excepcion5
-_p216_Excepcion6
+_p126_Excepcion6
 _p127_MiExecpcion
+
+## Actividad 23
+_p132_Archivos1
+_p133_Archivos2
+_p134_Archivos3
+_p135_Archivos4
+_p136_Archivos5
