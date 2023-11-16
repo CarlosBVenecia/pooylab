@@ -195,3 +195,18 @@ _p133_Archivos2
 _p134_Archivos3
 _p135_Archivos4
 _p136_Archivos5
+
+## Actividad 24
+_p139_HolaMundoGUI
+_p140_AreaTrianguloGUI
+_p141_LeyDeNewtonGUI
+
+
+## Actividad 25
+_p145_Estudiante_V1
+
+## Actividad 26
+_p146_Estudiante_V2
+
+## TercerExamenParcial
+_p147_TercerExamenParcial
