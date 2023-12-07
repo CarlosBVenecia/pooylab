@@ -141,7 +141,7 @@ _p95_Empleado02
 _p96_Empleado03
 _p97_Empleado04
 
-## Practica 7
+## Practica 16
 _p98_Circulo
 _p99_Rectangulo
 _p100_Articulo 
@@ -149,7 +149,7 @@ _p100_Articulo
 ## Practica 8 
 _p104_PuntoCirculo
 
-## Actividad 9
+## Actividad 17
 _p106_Persona
 _p107_Forma
 
@@ -189,6 +189,12 @@ _p125_Excepcion5
 _p126_Excepcion6
 _p127_MiExecpcion
 
+## Practica 12
+_p128_ExcepcionRaiz
+_p129_ExcepcionesDulces
+_p130_ExcepcionEdades
+_p131_ExcepcionTemperatura
+
 ## Actividad 23
 _p132_Archivos1
 _p133_Archivos2
@@ -210,3 +216,6 @@ _p146_Estudiante_V2
 
 ## TercerExamenParcial
 _p147_TercerExamenParcial
+
+## Extraordinario
+_p148_Extraordinario
